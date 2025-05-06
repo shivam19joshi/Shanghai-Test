@@ -46,4 +46,4 @@ st.pyplot(fig)
 
 # 📌 Footer
 st.markdown("---")
-st.caption("Made with ❤️ using Streamlit & Seaborn")
+st.caption("Made by Shivam")
